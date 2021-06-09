@@ -1,1 +1,1 @@
-# find-the-word
+# Type the word fastly as you can
